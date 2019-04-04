@@ -1,2 +1,5 @@
 *.html linguist-language=python
 *.py linguist-language=python
+*.0 linguist-language=python
+*.1 linguist-language=python
+*.ids linguist-language=python
