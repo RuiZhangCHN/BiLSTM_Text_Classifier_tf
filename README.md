@@ -39,5 +39,5 @@
 
 | Model | Accuracy(Yelp) | Code |
 | --- | ---| --- |
-| **BiLSTM** | 0.973| [github](https://github.com/muenn/BiLSTM_Text_Classifier_tf) |
-| CNN | - | - |
+| **BiLSTM** | 0.97292| [github](https://github.com/muenn/BiLSTM_Text_Classifier_tf) |
+| CNN | 0.97285 | [github](https://github.com/muenn/CNN_Text_Classifier_tf) |
